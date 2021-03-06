@@ -1,5 +1,0 @@
-# -
-# diagnosis
-＃phpsindan
-# newphpdiagnosis
-＃newphpdiagnosis
