@@ -4,9 +4,9 @@ for($i = 1; $i <=7; $i ++){
 	$answerC += $_POST["answer$i"];
 }
 // ===============確認用のecho=================
-echo "シートCの「はい」の数は".$answerC."<br>";
-echo "シートBの「はい」の数は".$_POST["resultB"]."<br>";
-echo "シートAの「はい」の数は".$_POST["resultA"]."<br>";
+// echo "シートCの「はい」の数は".$answerC."<br>";
+// echo "シートBの「はい」の数は".$_POST["resultB"]."<br>";
+// echo "シートAの「はい」の数は".$_POST["resultA"]."<br>";
 // ===============確認用のecho=================
 $answerB = $_POST["resultB"];
 $answerA = $_POST["resultA"];

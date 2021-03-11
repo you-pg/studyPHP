@@ -8,7 +8,7 @@ body{
 }
 /* ==================ヘッダー================= */
 header {
-	background-color: rgb(76, 178, 238);
+	background-color: rgb(84, 88, 90);
 	width: 100%;
 	height: 100px;}
 nav {
@@ -57,10 +57,14 @@ footer a {
 /* ================home画面=================== */
 
 .home_image{
-background-image: url(images/image2/home_image.jpg);
+
 }
 img {
 	width: 100%;
+}
+.alert{
+	text-align: center;
+	margin-bottom: 30px;
 }
 .start{
 	width: 200px;
@@ -68,13 +72,13 @@ img {
 	text-align: center;
 }
 .start a{
-	background-color: rgb(240, 245, 216);
+	background-color: rgb(241, 71, 218);
 	font-size: 22px;
 	text-decoration: none;
-	border-radius: 50%;
+	border-radius: 5%;
 	width: 40px;
-	height: 40px;
-	padding: 40px;
+	height: 20px;
+	padding: 25px;
 }
 
 /* ================質問箇所=================== */
@@ -131,7 +135,7 @@ article ul{
 }
 article li {
 	margin-bottom: 50px;
-	background-color: blue;
+	/* background-color: blue; */
 }
 article h3{
 	margin-top: 100px;
